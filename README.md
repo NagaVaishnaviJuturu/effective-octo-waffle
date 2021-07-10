@@ -1,2 +1,1 @@
-# effective-octo-waffle
-This is the first repo created
+# Car-Price-Prediction
